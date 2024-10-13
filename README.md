@@ -1,2 +1,3 @@
 # FreeWorld
-A better version of FreeWorld.
+
+FreeWorld 正式版本（最新）
